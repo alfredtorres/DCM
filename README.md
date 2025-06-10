@@ -1,7 +1,7 @@
 # DCM
 This repository is the official implementation of [Rethinking RoI Strategy in Interactive 3D Segmentation for Medical Images](https://openreview.net/forum?id=jospESnUL9).
 
-![model](.\figs\model.png)
+![model](/figs/model.png)
 
 ## Environments and Setup
 
@@ -48,3 +48,6 @@ Our method achieves the following performance on the challenge coreset.
 | PET        | 3.0188  | 2.8778  |  0.7691   |  0.7440   |
 | Ultrasound | 3.6741  | 3.7096  |  0.9299   |  0.9440   |
 
+## Acknowledgements
+
+We would like to express our sincere gratitude to the competition organizers for providing this valuable opportunity and platform for research and development. We also acknowledge the excellent work and open-source contributions from [SAM-Med3D](https://github.com/uni-medical/SAM-Med3D/tree/CVPR25_3DFM) and [VISTA3D](https://github.com/Project-MONAI/VISTA/tree/main/vista3d/cvpr_workshop).
