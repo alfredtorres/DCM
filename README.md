@@ -1,8 +1,9 @@
-# DCM
+# Rethinking RoI Strategy in Interactive 3D Segmentation for Medical Images
 This repository is the official implementation of [Rethinking RoI Strategy in Interactive 3D Segmentation for Medical Images](https://openreview.net/forum?id=jospESnUL9).
 
-![model](/figs/model.png)
+:tada: Our solution, won second place 🥈 in AllData Track and third place 🥉 in Coreset Track at the CVPR 2025 [Foundation Models for Interactive 3D Biomedical Image Segmentation](https://www.codabench.org/competitions/5263/).
 
+![model](/figs/model.png)
 ## Environments and Setup
 
 For inference or evaluation, you can directly download the docker file: [coreset](https://huggingface.co/yuyi1005/yiooo/blob/main/yiooo_coreset.tar.gz) and [alldata](https://huggingface.co/yuyi1005/yiooo/blob/main/yiooo_alldata.tar.gz).
