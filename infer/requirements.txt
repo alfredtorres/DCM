@@ -1,0 +1,10 @@
+torchio
+opencv-python-headless
+matplotlib
+prefetch_generator
+monai
+edt
+monai
+nibabel
+tqdm
+medim
